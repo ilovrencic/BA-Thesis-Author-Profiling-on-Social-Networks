@@ -1,0 +1,8 @@
+Author profiling is a method of analyzing a given number of texts to try to uncover
+various characteristics of the author. Profiling methods are largely based on the stylo-
+metric features of the text and are therefore extremely useful in today’s world marked
+by a large number of social networks. This paper deals with the determination of gen-
+der, age, and intesity of psychological features of the author. The models are based
+on natural language processing tools and machine learning algorithms. After the de-
+velopment of gender, age and intesity of psychological features models, experimental
+evaluation of the model and analysis of the obtained data was performed.

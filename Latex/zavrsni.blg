@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: zavrsni.aux
+The style file: fer.bst
+Database file #1: literatura.bib
+Warning--string name "automatic" is undefined
+--line 38 of file literatura.bib
+I was expecting a `,' or a `}'---line 38 of file literatura.bib
+ :  title = automatic 
+ :                    Profiling of Twitter Users Based on Their Tweets",
+I'm skipping whatever remains of this entry
+Warning--empty title in glove
+Warning--empty journal in stilometrija
+Warning--empty journal in python
+Warning--empty journal in logistic
+Warning--empty journal in word2vec
+Warning--empty journal in rangle2015
+Warning--empty journal in description_paper
+Warning--empty title in notebook2015
+Warning--empty journal in notebook2015
+Warning--empty year in notebook2015
+Warning--empty year in notebook2015
+Warning--empty title in kernel
+You've used 15 entries,
+            2773 wiz_defined-function locations,
+            655 strings with 6966 characters,
+and the built_in function-call counts, 6333 in all, are:
+= -- 505
+> -- 473
+< -- 7
++ -- 161
+- -- 144
+* -- 512
+:= -- 1027
+add.period$ -- 41
+call.type$ -- 15
+change.case$ -- 90
+chr.to.int$ -- 13
+cite$ -- 42
+duplicate$ -- 293
+empty$ -- 459
+format.name$ -- 169
+if$ -- 1270
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 15
+newline$ -- 79
+num.names$ -- 60
+pop$ -- 209
+preamble$ -- 1
+purify$ -- 78
+quote$ -- 0
+skip$ -- 230
+stack$ -- 0
+substring$ -- 30
+swap$ -- 12
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 165
+warning$ -- 12
+while$ -- 45
+width$ -- 0
+write$ -- 172
+(There was 1 error message)

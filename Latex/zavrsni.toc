@@ -1,0 +1,19 @@
+\babel@toc {croatian}{}
+\contentsline {chapter}{\numberline {1}Uvod}{1}% 
+\contentsline {chapter}{\numberline {2}Srodni radovi}{3}% 
+\contentsline {chapter}{\numberline {3}Strojno u\IeC {\v c}enje}{5}% 
+\contentsline {section}{\numberline {3.1}Stroj potpornih vektora}{7}% 
+\contentsline {section}{\numberline {3.2}Logisti\IeC {\v c}ka regresija}{12}% 
+\contentsline {chapter}{\numberline {4}Podaci i model}{14}% 
+\contentsline {section}{\numberline {4.1}Skup podataka}{14}% 
+\contentsline {section}{\numberline {4.2}Model}{15}% 
+\contentsline {subsubsection}{Word2Vec}{15}% 
+\contentsline {subsubsection}{GloVe}{16}% 
+\contentsline {subsubsection}{FastText}{17}% 
+\contentsline {chapter}{\numberline {5}Rezultati}{19}% 
+\contentsline {section}{\numberline {5.1}Evaluacijske mjere}{19}% 
+\contentsline {section}{\numberline {5.2}Odre\IeC {\dj }ivanje spola autora}{20}% 
+\contentsline {section}{\numberline {5.3}Odre\IeC {\dj }ivanje dobi autora}{23}% 
+\contentsline {section}{\numberline {5.4}Odre\IeC {\dj }ivanje intenziteta karakternih zna\IeC {\v c}ajki autora}{27}% 
+\contentsline {chapter}{\numberline {6}Zaklju\IeC {\v c}ak}{30}% 
+\contentsline {chapter}{Literatura}{31}% 

@@ -1,0 +1,94 @@
+\begin{thebibliography}{15}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abad et~al.(2016)Abad, Ortega, Teixeira, Carmen, Hinarejos, Perdigao,
+  i Mamede]{glove}
+Alberto Abad, Alfosno Ortega, Antonio Teixeira, Mateo Carmen, Carlos Hinarejos,
+  Fernando Perdigao, i Nuno Mamede.
+\newblock \emph{Advances in Speech and Language Technologies for Iberian
+  Languages: Third International Conference, IberSPEECH 2016, Lisbon, Portugal,
+  November 23-25, 2016, Proceedings}, 2016.
+
+\bibitem[Akhtyamova et~al.(2017)Akhtyamova, Cardiff, i Ignatov]{notebook2017}
+Liliya Akhtyamova, John Cardiff, i Andrey Ignatov.
+\newblock Twitter author profiling using word embeddings and logistic
+  regression.
+\newblock \emph{Notebook for PAN at CLEF 2017}, 2017.
+
+\bibitem[Argamon et~al.(2010)Argamon, Burns, i Dubnov]{stilometrija}
+Shlomo Argamon, Kevin Burns, i Shlomo Dubnov.
+\newblock The structure of style: algorithmic approaches to understanding
+  manner and meaning.
+\newblock 2010.
+
+\bibitem[Bird et~al.(2009)Bird, Loper, i Klein]{python}
+S.~Bird, E.~Loper, i E.~Klein.
+\newblock Natural language processing with python.
+\newblock 2009.
+
+\bibitem[Fradkin i Muchnik(2006)]{fradkin2006}
+Dmitriy Fradkin i Ilya Muchnik.
+\newblock Support vector machines for classification.
+\newblock \emph{DIMACS Series in Discrete Mathematics and Theoretical Computer
+  Science}, 2006.
+
+\bibitem[Hosmer i Lemeshow(2000)]{logistic}
+David Hosmer i Stanley Lemeshow.
+\newblock Applied logistic regression (2nd ed).
+\newblock 2000.
+
+\bibitem[Kai-Bo i S.Sathiya(2005)]{svm_multiclass}
+Duan Kai-Bo i Keerthi S.Sathiya.
+\newblock Which is the best multiclass svm method?
+\newblock \emph{Multiple Classifier Systems}, 2005.
+
+\bibitem[Love(2002)]{love2002}
+Bradley~C Love.
+\newblock Comparing supervised and unsupervised category learning.
+\newblock \emph{Psycho- nomic bulletin and review}, 2002.
+
+\bibitem[Mikolov et~al.(2013{\natexlab{a}})Mikolov, Chen, Corrado, i
+  Dean]{word2vec}
+Tomas Mikolov, Kai Chen, Greg Corrado, i Jeffrey Dean.
+\newblock Efficient estimation of word representations in vector space.
+\newblock 2013{\natexlab{a}}.
+
+\bibitem[Mikolov et~al.(2013{\natexlab{b}})Mikolov, Chen, Sutskever, Corrado, i
+  Dean]{word2vec2}
+Tomas Mikolov, Kai Chen, Ilya Sutskever, Greg Corrado, i Jeffrey Dean.
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock \emph{Advances in Neural Information Processing Systems},
+  2013{\natexlab{b}}.
+
+\bibitem[Rangel et~al.(2015{\natexlab{a}})Rangel, Rosso, Potthast, Stein, i
+  Daelemans]{rangle2015}
+F.~Rangel, P.~Rosso, M.~Potthast, B.~Stein, i W.~Daelemans.
+\newblock Overview of the 3rd authorprofiling task at pan 2015.
+\newblock 2015{\natexlab{a}}.
+
+\bibitem[Rangel i Rosso(2013)]{rangel2013}
+Francisco Rangel i Paolo Rosso.
+\newblock Use of language and author profiling: Identification of gender and
+  age.
+\newblock \emph{Natural Language Processing and Cognitive Science}, 2013.
+
+\bibitem[Rangel et~al.(2015{\natexlab{b}})Rangel, Celli, Rosso, Potthast,
+  Stein, i Daelemans]{description_paper}
+Francisco Rangel, Fabio Celli, Paolo Rosso, Martin Potthast, Benno Stein, i
+  Walter Daelemans.
+\newblock Overview of the 3rd author profiling task at pan 2015.
+\newblock 2015{\natexlab{b}}.
+
+\bibitem[Sulea i Dichiue()]{notebook2015}
+Octavia-Maria Sulea i Daniel Dichiue.
+
+\bibitem[Theodoridis(2008)]{kernel}
+Sergios Theodoridis.
+\newblock \emph{Pattern Recognition}, 2008.
+
+\end{thebibliography}

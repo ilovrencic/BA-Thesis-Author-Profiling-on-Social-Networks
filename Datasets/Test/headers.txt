@@ -1,0 +1,2 @@
+userid:::gender:::age_group:::extroverted:::stable:::agreeable:::conscientious:::open
+
